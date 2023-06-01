@@ -1,0 +1,40 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Times New Roman', serif;
+    background-color: #baeec0;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+  border-radius: 10px;
+}
+
+.result {
+  padding-bottom: 200px;
+}
+
+.sixtymeterHurdles {
+  display:none;
+}
+
+.threehundredHurdles {
+  display:none;
+}
+
+.throwersRelay {
+  display:none;
+}
+
+.longRun {
+display:none;
+}
+
+.title {
+  display:block;
+}
+
+.submitButton {
+  display: block;
+}
